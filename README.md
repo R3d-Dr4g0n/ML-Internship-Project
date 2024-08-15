@@ -1,6 +1,17 @@
 # Crime Prediction Analysis using Stack-Based Ensemble Learning
 
-Welcome to the Crime Prediction Analysis project! This repository showcases a comprehensive machine learning approach aimed at predicting crime rates across various regions in India. The centerpiece of this project is the Stack-Based Ensemble Learning model, which combines the strengths of multiple base models to achieve superior predictive performance.
+<table style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+     <td style="border: none; vertical-align: top;">
+      Welcome to the Crime Prediction Analysis project! This repository showcases a comprehensive machine learning approach aimed at predicting crime rates across various regions in India. The centerpiece of this project is the Stacked Ensemble Learning model, which combines the strengths of multiple base models to achieve superior predictive performance.
+    </td>
+    <td style="border: none;">
+      <img src="https://media-s3-us-east-1.ceros.com/gumgum/images/2018/08/30/a4ef384f2a79aeee4847721ec28d8720/machine-training-animation-1.gif" alt="ML GIF" width="300"/>
+    </td>
+  </tr>
+</table>
+
+
 
 ## 📊 Project Overview
 
