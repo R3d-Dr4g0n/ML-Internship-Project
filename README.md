@@ -43,11 +43,6 @@ To replicate the environment used for this project, ensure you have the followin
 - **Jupyter Notebook**
 - **Anaconda** for package management
 
-Install the necessary libraries using:
-
-```bash
-pip install -r requirements.txt
-```
 ### 🚀 Skills Gained
 Through this internship and the development of this project, I have gained hands-on experience in:
 
