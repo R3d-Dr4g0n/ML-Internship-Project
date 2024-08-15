@@ -29,6 +29,7 @@ In this project, we employed a stack-based ensemble learning technique to analyz
 The stack-based ensemble learning model outperformed the individual models by leveraging their unique strengths. By stacking these models, we were able to reduce bias and variance, leading to more robust and reliable predictions. This approach is particularly effective in scenarios where different models excel at different aspects of the prediction task.
 
 ## 🛠️ Tech Stack
+
 - **Programming Language:** Python
 - **Libraries:** Scikit-learn, SVM, Decision Tree, Random Forest, Pandas, NumPy, Matplotlib, Seaborn
 - **Data Processing:** Pandas, NumPy
@@ -44,6 +45,7 @@ To replicate the environment used for this project, ensure you have the followin
 - **Anaconda** for package management
 
 ### 🚀 Skills Gained
+
 Through this internship and the development of this project, I have gained hands-on experience in:
 
 - **Machine Learning:** Understanding and implementing various machine learning models, including ensemble learning techniques.
